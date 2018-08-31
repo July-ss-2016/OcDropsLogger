@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="OcDropsLogger:jar">
+    <output-path>$PROJECT_DIR$/../../../../mc_test_servers/spigot_112_0/plugins</output-path>
+    <root id="archive" name="OcDropsLogger.jar">
+      <element id="module-output" name="OcDropsLogger" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+name: OcDropsLogger
+main: vip.ourcraft.mcserverplugins.ocdropslogger.OcDropsLogger
+author: July_ss
+version: 1.0.0
+depend: [EasyFileLogger]
